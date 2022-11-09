@@ -1,0 +1,23 @@
+'''
+= assignment operator  a = 7
+== comparision operator  a == b 
+=== comparision with data type  a = 7, b ="7"  a == b : true,  a === b : false
+!= not equal too  a != b
+!== not equal to with data type comparision // Check it
+>= greater than or equal to  a = 6, b = 6,  if a>=b 
+<= less than or evual to 
+< less than 
+> greater than
+||  or  a= 8, b=9, c=4,  if a == b || b > c: True
+&& And   a= 8, b=9, c=4,  if a < b && b == c: 
+
+
+
+
+1. driving license
+2. Suggest movie according to age
+3. Admission Process (B= Board, B%, Branch Suggestion according to B%,)
+4. Grade calculator (Grade according to total marks, Total Percentage and message, Fail in less than 26 marks, Input value should be less than 100 and greater than 0)
+
+
+'''
