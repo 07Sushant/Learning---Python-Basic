@@ -1,7 +1,9 @@
 # WAp to print 10 numbers fibonacci series 
-n=int(input(": "))
-s=0
-for i in range(0,n+1):
-    print(s)
-    i+=1
-    s+=i
+a = 0
+b = 1
+print(str(a)+" "+str(b),end=" ")
+for i in range(0,8):
+    c = a + b
+    print(c,end=" ")
+    a = b
+    b = c
