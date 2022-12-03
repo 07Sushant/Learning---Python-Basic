@@ -6,3 +6,4 @@ z = lambda a,b: (a+b)**2
 num = z(x,y)
 print(num)
 #
+# sushant
