@@ -6,3 +6,4 @@ if percentage>=75:
     print("You are eligible")
 else :
     print("Not eligible")
+#     Sushant
