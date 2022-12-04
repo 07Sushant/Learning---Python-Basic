@@ -38,6 +38,7 @@
 
 
 
+
 # tuple=(1,2,3,[6,7],4,5)
 # (tuple[3][0])=8
 # print(tuple)
@@ -45,9 +46,9 @@
 
 
 
-tuple1=(10,20)
-tuple2=(30,40)
-x=tuple1
-tuple1=tuple2
-print(tuple1)
-print(x)
+# tuple1=(10,20)
+# tuple2=(30,40)
+# x=tuple1
+# tuple1=tuple2
+# print(tuple1)
+# print(x)
