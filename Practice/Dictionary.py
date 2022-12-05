@@ -25,3 +25,4 @@ dict={
     }
 }
 print(dict["class"]["student"]["marks"]["web"])
+# Sushant
