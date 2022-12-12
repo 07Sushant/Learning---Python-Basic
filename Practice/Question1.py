@@ -8,3 +8,5 @@ if Duration>=5:
     print("Your salary is: ",Salary+1000)
 else:
     print("Your salary is",Salary)
+    
+#  Sushant
