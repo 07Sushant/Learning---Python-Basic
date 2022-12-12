@@ -12,3 +12,4 @@ laptop2 = Laptop("HP", 'i9')
 
 laptop1.printOutput()
 laptop2.printOutput()
+# Sushant
