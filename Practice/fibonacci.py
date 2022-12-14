@@ -7,3 +7,4 @@ for i in range(0,8):
     print(c,end=" ")
     a = b
     b = c
+#     Sushant
