@@ -5,3 +5,4 @@ b=(p<=q)
 r=(c and b)
 print(r)
 print(not(r))
+# Sushant
