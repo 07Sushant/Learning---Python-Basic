@@ -16,3 +16,4 @@ for i in range(p):
     s+=i
     
 print(s)
+# Sushant
