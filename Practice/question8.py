@@ -11,3 +11,4 @@ list = ["Atul","Subham","Anurag","Rahul","Dev","roy"]
 total = count(list)
 print(total)
 #Sushant
+#sushant
