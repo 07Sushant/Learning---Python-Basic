@@ -27,7 +27,7 @@
 f = open("demo.txt", "r")
 print(f.read(10))
 print(f.tell())
-
+#Sushant
 
 
 
