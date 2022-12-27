@@ -14,3 +14,4 @@ pattern = r"^(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&*()_+=-])(?=.{8,})"
 # individually listing takes palce ex: [Sushant] will mathch  'S','U','S','H','A','N','T'
 #
 
+#Sushant
